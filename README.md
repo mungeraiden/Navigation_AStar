@@ -1,1 +1,1 @@
-# A* navigation and maze solver written in Java
+A* navigation and maze solver written in Java
